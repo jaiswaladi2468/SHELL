@@ -7,6 +7,8 @@ In Linux, a shell is a command-line interface that allows users to interact with
 
 - BASH
 - PYTHON
+- SH
+- ZSH
 
 ## Shebang
 
